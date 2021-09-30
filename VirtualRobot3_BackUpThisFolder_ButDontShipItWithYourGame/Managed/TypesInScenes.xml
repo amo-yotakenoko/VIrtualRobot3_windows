@@ -3,9 +3,6 @@
 		<type fullname="UnityEngine.Object" preserve="nothing"/>
 		<type fullname="UnityEditor.MonoScript" preserve="nothing"/>
 		<type fullname="UnityEngine.Material" preserve="nothing"/>
-		<type fullname="UnityEngine.Texture" preserve="nothing"/>
-		<type fullname="UnityEngine.Texture2D" preserve="nothing"/>
-		<type fullname="UnityEngine.Sprite" preserve="nothing"/>
 		<type fullname="UnityEditor.VFXManager" preserve="nothing"/>
 		<type fullname="UnityEngine.Shader" preserve="nothing"/>
 		<type fullname="UnityEngine.TextAsset" preserve="nothing"/>
@@ -33,6 +30,8 @@
 		<type fullname="UnityEngine.Collider" preserve="nothing"/>
 		<type fullname="UnityEngine.MeshCollider" preserve="nothing"/>
 		<type fullname="UnityEngine.BoxCollider" preserve="nothing"/>
+		<type fullname="UnityEngine.Joint" preserve="nothing"/>
+		<type fullname="UnityEngine.FixedJoint" preserve="nothing"/>
 		<type fullname="UnityEngine.TextMesh" preserve="nothing"/>
 		<type fullname="UnityEngine.Canvas" preserve="nothing"/>
 		<type fullname="UnityEngine.RectTransform" preserve="nothing"/>
@@ -48,6 +47,9 @@
 		<type fullname="UnityEngine.LightmapSettings" preserve="nothing"/>
 		<type fullname="UnityEngine.Font" preserve="nothing"/>
 		<type fullname="UnityEngine.Mesh" preserve="nothing"/>
+		<type fullname="UnityEngine.Texture" preserve="nothing"/>
+		<type fullname="UnityEngine.Texture2D" preserve="nothing"/>
+		<type fullname="UnityEngine.Sprite" preserve="nothing"/>
 		<type fullname="UnityEngine.CanvasRenderer" preserve="nothing"/>
 		<type fullname="UnityEngine.RenderSettings" preserve="nothing"/>
 		<type fullname="UnityEngine.PhysicMaterial" preserve="nothing"/>
@@ -60,9 +62,12 @@
 	<assembly fullname="Assembly-CSharp">
 		<type fullname="GOAL" preserve="nothing"/>
 		<type fullname="allclear" preserve="nothing"/>
+		<type fullname="blockstack" preserve="nothing"/>
 		<type fullname="bringitem" preserve="nothing"/>
 		<type fullname="checkpoint" preserve="nothing"/>
 		<type fullname="climbing" preserve="nothing"/>
+		<type fullname="config" preserve="nothing"/>
+		<type fullname="connectScratch" preserve="nothing"/>
 		<type fullname="conversionRobot" preserve="nothing"/>
 		<type fullname="createframe" preserve="nothing"/>
 		<type fullname="debug" preserve="nothing"/>
@@ -86,6 +91,7 @@
 		<type fullname="robotselect" preserve="nothing"/>
 		<type fullname="robottable" preserve="nothing"/>
 		<type fullname="save" preserve="nothing"/>
+		<type fullname="stackbox" preserve="nothing"/>
 		<type fullname="stageselect" preserve="nothing"/>
 		<type fullname="startblock" preserve="nothing"/>
 		<type fullname="swich" preserve="nothing"/>

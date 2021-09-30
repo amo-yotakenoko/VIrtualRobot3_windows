@@ -537,6 +537,8 @@ struct FocusedElementU5BU5D_tDABD8EB7C044CE4E329FC2B941BF1759F18552F3;
 struct Action_tAF41423D285AE0862865348CF6CE51CD085ABBA6;
 // System.ArgumentNullException
 struct ArgumentNullException_tFB5C4621957BC53A7D1B4FDD5C38B4D6E15DB8FB;
+// System.AsyncCallback
+struct AsyncCallback_tA7921BEF974919C46FF8F9D9867C567B200BB0EA;
 // UnityEngine.UIElements.AtlasBase
 struct AtlasBase_tDB4C470C02253BAD18D1BF83FADB620209E4A37D;
 // UnityEngine.UIElements.AttachToPanelEvent
@@ -643,6 +645,8 @@ struct GenericStack_tFE88EF4FAC2E3519951AC2A4D721C3BD1A02E24C;
 struct GetViewDataDictionary_t98279159E390DE67BB251497F1B8EEE94CB5A516;
 // UnityEngine.UIElements.HierarchyEvent
 struct HierarchyEvent_t47E86053D8C35FD238EDFA44861E84233257AFC8;
+// System.IAsyncResult
+struct IAsyncResult_tC9F97BF36FCF122D29D3101D80642278297BF370;
 // UnityEngine.UIElements.ICursorManager
 struct ICursorManager_t8B97B7A88BD258220CF596B11D8461B86360BEE2;
 // System.Collections.IDictionary
