@@ -16647,6 +16647,15 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR String_t* Application_get_persistentDataPath_
 	String_t* icallRetVal = _il2cpp_icall_func();
 	return icallRetVal;
 }
+// System.Void UnityEngine.Application::OpenURL(System.String)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Application_OpenURL_m4AED08D5321E5395FAC8D91C2C428DBE60C5FD4E (String_t* ___url0, const RuntimeMethod* method)
+{
+	typedef void (*Application_OpenURL_m4AED08D5321E5395FAC8D91C2C428DBE60C5FD4E_ftn) (String_t*);
+	static Application_OpenURL_m4AED08D5321E5395FAC8D91C2C428DBE60C5FD4E_ftn _il2cpp_icall_func;
+	if (!_il2cpp_icall_func)
+	_il2cpp_icall_func = (Application_OpenURL_m4AED08D5321E5395FAC8D91C2C428DBE60C5FD4E_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Application::OpenURL(System.String)");
+	_il2cpp_icall_func(___url0);
+}
 // UnityEngine.RuntimePlatform UnityEngine.Application::get_platform()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t Application_get_platform_mB22F7F39CDD46667C3EF64507E55BB7DA18F66C4 (const RuntimeMethod* method)
 {
