@@ -3,4 +3,5 @@
 https://unityroom.com/games/virtualrobot<br>
 
 ## 操作説明と最初の方の攻略の動画です<br>
-https://youtube.com/playlist?list=PLauRMJ_XuEjuyaS8vKTpu7lKLhikGE9B3
+https://youtu.be/QbBcIDIqlJw<br>
+https://youtu.be/Og0qnHN1Fqo
